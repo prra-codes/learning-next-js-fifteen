@@ -24,4 +24,4 @@ export default function ErrorBoundary({
   );
 }
 
-// learning more next.js
+// learning more next.js, watching another next.js video
